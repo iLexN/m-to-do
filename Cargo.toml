@@ -1,6 +1,6 @@
 [package]
 name = "m-to-do"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["Ilex Ng <ilex.ng@scmp.com>"]
 edition = "2018"
 
